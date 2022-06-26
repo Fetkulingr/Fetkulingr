@@ -1,9 +1,9 @@
 ### Welcome 👋My name is Grigory
 ![](https://komarev.com/ghpvc/?username=Fetkulingr)
 # I am beginner programmer
-I like to write code
-I like walking
-I am constantly learning new things
+I like to write code <br />
+I like walking <br />
+I am constantly learning new things <br />
 ### Connect with me:
 [<img align="" alt="GrigoryFetkulin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
