@@ -13,7 +13,7 @@ I am constantly learning new things <br />
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ![Fetkulingr GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fetkulingr&show_icons=true&theme=merko)<br />
-![Fetkulingr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fetkulingr&theme=merko&layout=compact)
+![Fetkulingr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fetkulingr&theme=merko&layout)
 
 [VK]: https://vk.com/id421038969
 <br />
