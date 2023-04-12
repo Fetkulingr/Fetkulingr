@@ -4,6 +4,7 @@
 Мне нравится писать код <br />
 Мне нравится гулять <br />
 Я постоянно учусь чему-то новому <br />
+Подхожу к любой задаче ответственно, делаю - качественно, уделяю внимание деталям
 ### Связь со мной:
 [<img align="" alt="GrigoryFetkulin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
