@@ -1,14 +1,14 @@
-### Welcome 👋My name is Grigory
+### Добро пожаловать 👋 Меня зовут Григорий
 ![](https://komarev.com/ghpvc/?username=Fetkulingr)
-# I am beginner programmer
-I like to write code <br />
-I like walking <br />
-I am constantly learning new things <br />
-### Connect with me:
+# Я начинающий программист
+Мне нравится писать код <br />
+Мне нравится гулять <br />
+Я постоянно учусь чему-то новому <br />
+### Связь со мной:
 [<img align="" alt="GrigoryFetkulin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 
-### Languages and Tools:
+### Языки и инструменты:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
