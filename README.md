@@ -5,10 +5,6 @@
 Мне нравится гулять <br />
 Я постоянно учусь чему-то новому <br />
 Подхожу к любой задаче ответственно, делаю - качественно, уделяю внимание деталям
-### Связь со мной:
-[<img align="" alt="GrigoryFetkulin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-
-
 ### Языки и инструменты:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -28,7 +24,6 @@
 ## 📈 GitHub Stats
 ![Fetkulingr GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fetkulingr&show_icons=true&theme=merko)
 ![Fetkulingr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fetkulingr&layout=compact&theme=merko)
-[VK]: https://vk.com/id421038969
 <br />
 <br />
 <br />
