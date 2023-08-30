@@ -8,7 +8,6 @@
 ### Языки и инструменты:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -22,8 +21,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)<br />
 
 ## 📈 GitHub Stats
-![Fetkulingr GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fetkulingr&show_icons=true&theme=merko)
-![Fetkulingr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fetkulingr&layout=compact&theme=merko)
-<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fetkulingr&hide=tsql&langs_count=7&theme=merko&l)
+![Fetkulingr GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fetkulingr&count_private=true&hide=contribs&show_icons=true&theme=merko)
 <br />
 <br />
