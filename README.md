@@ -25,7 +25,9 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)<br />
 
-
+## 📈 GitHub Stats
+![Fetkulingr GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fetkulingr&show_icons=true&theme=merko)
+![Fetkulingr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fetkulingr&layout=compact&theme=merko)
 [VK]: https://vk.com/id421038969
 <br />
 <br />
